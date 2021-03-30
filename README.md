@@ -17,8 +17,8 @@ cd SEA-fish
 ruby SEA-fish.rb
 ```
 # ملاحظه 
-اذا كان لديك نجروك مثبتة من قبل قم بنقلها الى داخل الاداة عبر الامر
+ اذا كان لديك نجروك مثبتة من قبل قم بنقلها الى داخل الاداة عبر الامر
 ```
-cp -r 
+cd ; cp -r ngrok $HOME/SEA-fish/Allow && cp -r ngrok $HOME/SEA-fish/Blank-page && cp -r ngrok $HOME/SEA-fish/Wishsix && cp -r ngrok $HOME/SEA-fish/amino ; cd SEA-fish ; ls
 ```
-ان لم يكن لديك نجروك الاداة سوف تقوم بتنزيلها تلقائي 
+ ان لم يكن لديك نجروك الاداة سوف تقوم بتنزيلها تلقائي 
