@@ -14,4 +14,11 @@ git clone https://github.com/mrvanonmus/SEA-fish
 # تشغيل 
 ```
 cd SEA-fish
-ruby 
+ruby SEA-fish.rb
+```
+# ملاحظه 
+اذا كان لديك نجروك مثبتة من قبل قم بنقلها الى داخل الاداة عبر الامر
+```
+cp -r 
+```
+ان لم يكن لديك نجروك الاداة سوف تقوم بتنزيلها تلقائي 
