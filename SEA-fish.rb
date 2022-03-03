@@ -48,4 +48,4 @@ num=gets.chomp.to_i
      else
        system("ruby SEA-fish.rb")
  end
- puts "good by"
+ puts "fuck you"
