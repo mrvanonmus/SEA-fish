@@ -16,7 +16,7 @@ puts("            {5}Blank page")
 
 puts("\n\n[=====exit=====]\n\n")
 
-puts("\n       enter the number")
+print("\n       enter the number")
 num=gets.chomp.to_i
  if num ==1
   system("cd Wishsix")
