@@ -1,20 +1,20 @@
 system("clear")
-puts("       _____   _____       ___ \n.     /  ___/ | ____|     /   | \n      | |___  | |__      / /| | \n.     \|___ \ | |  __|    / /_| | \n       ___| | | |___   / /__| |\n      /_____/ |_____| /_/   |_|") 
-  puts("[SEA]==========================[SEA]") 
-  puts("       my name: Alhamwi ") 
-  puts("       my insta: al0hamwi")  
-  puts("       my youtube: alhamwi")  
-  puts("       MADE IN SYRIA") 
+puts("\033[1;33m       _____   _____       ___ \n.     /  ___/ | ____|     /   | \n      | |___  | |__      / /| | \n.     \|___ \ | |  __|    / /_| | \n       ___| | | |___   / /__| |\n      /_____/ |_____| /_/   |_|") 
+  puts("\033[1;33m[SEA]==========================[SEA]") 
+  puts("\033[1;37m       my name: Alhamwi ") 
+  puts("\033[1;37m       my insta: al0hamwi")  
+  puts("\033[1;37m       my youtube: alhamwi")  
+  puts("\033[1;37m       MADE IN SYRIA") 
     
-  puts("[SEA]==========================[SEA]") 
-puts("\n            {1}Wishsix")
-puts("            {2}Blank page")
-puts("            {3}Allow follow-up requests")
-puts("            {4}amino")
-puts("            {5}Blank page")
+  puts("\033[1;33m[SEA]==========================[SEA]") 
+puts("\n\033[1;37m          {1}Wishsix")
+puts("\033[1;37m            {2}Blank page")
+puts("\033[1;37m            {3}Allow follow-up requests")
+puts("\033[1;37m            {4}amino")
+puts("\033[1;37m            {5}Blank page")
 
 
-puts("\n\n[=====exit=====]\n\n")
+puts("\n\n\033[1;33m[=====exit=====]\n\n")
 
 print("\n       enter the number")
 num=gets.chomp.to_i
