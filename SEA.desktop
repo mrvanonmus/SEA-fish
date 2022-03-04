@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SEA
+Comment=SEA TOOL
+Exec=ruby SEA-fish.rb
+Icon=telephony-service-call
+Path=/home/alhamwi/SEA-fish
+Terminal=true
+StartupNotify=false
